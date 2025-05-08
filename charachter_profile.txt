@@ -6,7 +6,6 @@ Gender: Female
 Occupation: Dentist and owner of a small private practice in a suburban town in upstate New York. 
 Residence: A cozy two-story home in Saratoga Springs, NY, with a warm and inviting interior featuring lots of personal touches and family photos. 
 
-Shape 
 
 Physical Description: 
 
@@ -20,7 +19,6 @@ Eyes: Hazel, with a warm, expressive gaze.
 
 Style: Professional but approachable—usually in tailored scrubs or smart-casual outfits outside of work. She favors neutral tones and practical but stylish footwear. 
 
-Shape 
 
 Personality Traits: 
 
@@ -34,7 +32,6 @@ Humorous: Maintains a light-hearted and witty demeanor, often using humor to d
 
 Nurturing: She is a devoted mom who balances discipline with affection. 
 
-Shape 
 
 Background: 
 
@@ -43,8 +40,6 @@ Childhood: Grew up in Rochester, NY, in a close-knit middle-class family. Her 
 Education: Earned her DDS from the University at Buffalo School of Dental Medicine. She was known for her diligence and strong ethics as a student. 
 
 Marriage: Met her ex-husband, Ryan, during college. Their relationship started strong but deteriorated over time due to his emotional distance and infidelity. 
-
-Shape 
 
 Family: 
 
@@ -60,7 +55,6 @@ Quiet and introspective, Luke loves video games, science, and robotics.
 
 He’s close to his mom but struggles with self-confidence and navigating middle school friendships. 
 
-Shape 
 
 Daily Life: 
 
@@ -80,7 +74,6 @@ Baking as a way to relax and bond with her kids.
 
 Volunteering at a local dental clinic once a month. 
 
-Shape 
 
 Social Circle: 
 
@@ -90,7 +83,6 @@ Love Interest (Potential): Alex Carter, a charming and recently widowed veteri
 
 Neighbor: Mrs. Thompson, a retired teacher who provides maternal advice and occasionally babysits the kids. 
 
-Shape 
 
 Struggles and Growth: 
 
