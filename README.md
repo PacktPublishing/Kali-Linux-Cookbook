@@ -89,8 +89,12 @@ By the end of this book, you’ll have strengthened your grasp of the entire pen
   <summary><h2>Requirements for this book</summary>
 Before starting, ensure you have a properly confi gured lab environment. All exercises were designed for use with VirtualBox and a collection of prebuilt vulnerable machines, including Metasploitable 3 (Windows and Ubuntu), BeeBox, and Damn Vulnerable Linux. Your Kali Linux VM should be configured with both host-only and bridged adapters to simulate internal and external networks.
   </details>
-    
-
+<details open> 
+  <summary><h2>Errata</summary>
+     <ul>
+     <li>(Page 104, 4th point, second para, third line): <strong>automated system number (ASN)</strong> <em> should be</em> <strong>Autonomous System Number (ASN)</strong> </li>
+     </ul>
+  </h2>details>
 
 <details> 
   <summary><h2>Get to know Author</h2></summary>
